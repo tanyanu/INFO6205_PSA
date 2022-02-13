@@ -54,7 +54,7 @@ public class BenchmarkInsertionSort {
                 System.out.println("Running Time Partially sorted : " + partialRunningTime);
 
                 System.out.println("************************************************************");
-                N = N + 00;
+                N = N + 200;
             }
         }
 
